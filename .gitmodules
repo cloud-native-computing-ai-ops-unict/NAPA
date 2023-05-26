@@ -1,0 +1,9 @@
+[submodule "napa-operator"]
+	path = napa-operator
+	url = git@github.com:cloud-native-computing-ai-ops-unict/napa-operator.git
+[submodule "napa-predictor"]
+	path = napa-predictor
+	url = git@github.com:cloud-native-computing-ai-ops-unict/napa-predictor.git
+[submodule "napa-agent"]
+	path = napa-agent
+	url = git@github.com:cloud-native-computing-ai-ops-unict/napa-agent.git
